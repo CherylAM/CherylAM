@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @CherylAM
-- 👀 I’m interested in learning about careers in Data Science and Data Analytics.
-- 🌱 I’m currently studying Data Science at Rutgers.  This term, I began learning, R, SQLite, Python and JSON.
--   It would be great to get some feedback on my homework assignment coding in the future.
-- 💞️ I’m looking to collaborate on data mining from voter registration data.
+- 👀 I’m interested in learning about careers in Data Analytics for marketing and business stragegy.
+- 🌱 I have working on my Masters in Data Science at Rutgers. This past year I have studied Data Management, Data Wrangling and Husbandry, Experimental Desigh and Probability.   
+-   I have experience programming in R, Python and SQL.  
 - 📫 How to reach me cherylallenmunley@gmail.com
 
-Cheryl
+Cheryl Allen-Munley
 
 <!---
 CherylAM/CherylAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
